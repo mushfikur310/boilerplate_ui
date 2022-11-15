@@ -1,4 +1,3 @@
-## CASSEROLE UI
+## UI BOILERPLATE
 
-1. Casserole UI for both user, chefs and providers.
-2. It has been built on React and Redux.
+1. It has been built on React and Redux.
